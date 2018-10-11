@@ -29,10 +29,9 @@ Let's get started:
  * It will tell the Terminal to look in the '**codelabs**' folder you’ve just unzipped on your desktop
 
 5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh index.js views/index.ejs`
- * If it asks anything about Xcode, click on “Not now”
- * Tells Atom to open the two files we’ll be editing. You can switch between them at the top.
- * Feel free to close (x out of) other windows, like the Atom welcome screen
-
+ * This command tells Atom to open the two files we’ll be editing. You can switch between them at the top in Atom. 
+ * If a screen prompt appears asking about Xcode, click on '**Not now**'
+ 
 6. Run this command in the Terminal: `./run_me.sh` 
  * If asked if you want to accept network connections, click “Allow”
  * It starts the app we’re going to be using on your computer
@@ -67,3 +66,5 @@ Now in the web browser, you'll seeing the account balances for the sample accoun
 6. Check to see that your code change has been applied in the browser
 
 Congratulations! You’ve fixed your first bug!
+
+## Editing the code
