@@ -88,4 +88,4 @@ Congratulations! You’ve fixed your first bug!
  * The word strong tells the browser which words to  emphasize
  * Follow this [link](https://codepen.io/tiberiusf/pen/rqwzYj) to see an example of HTML tables in action 
  * Feel free to take some time to change or add rows. Keep in mind the sum won’t auto-update - not to worry! We also need functions: code formulas that take inputs and transform them into outputs
- * Follow This link to see examples of a function that squares a number
+ * Follow this link to see examples of a function that squares a number
