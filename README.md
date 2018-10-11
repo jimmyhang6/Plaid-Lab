@@ -23,7 +23,7 @@ Look for the '**Download**' button in the top-right corner
  * The Terminal will let you run the app we’re using in this codelab
  * You run commands by typing the instructions below and pressing Enter
 
-4. Run this command in the Terminal: **cd ~/Desktop/codelab**
+4. Run this command in the Terminal: `cd ~/Desktop/codelab`
  * It will tell the Terminal to look in the '**codelabs**' folder you’ve just unzipped on your desktop
 
 5. Go to http://localhost:8001 in your Chrome browser
