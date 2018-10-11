@@ -26,10 +26,10 @@ Let's get started:
  * You run commands by typing the instructions below and pressing Enter
 
 4. Run this command in the Terminal: `cd ~/Desktop/codelab`
- * It will tell the Terminal to look in the '**codelabs**' folder you’ve just unzipped on your desktop
+ * This command tells the Terminal to look in the '**codelabs**' folder that you’ve just unzipped 
 
 5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh index.js views/index.ejs`
- * This command tells Atom to open the two files we’ll be editing. You can switch between them at the top in Atom. 
+ * This command tells Atom to open the two files you’ll be editing. You can switch between them at the top in Atom. 
  * If a screen prompt appears asking about Xcode, click on '**Not now**'
  
 6. Run this command in the Terminal: `./run_me.sh` 
@@ -58,6 +58,9 @@ Now in the web browser, you'll seeing the account balances for the sample accoun
 
 1. Go back to the Atom window and make sure '**index.ejs**' is selected at the top of the window
  * This is one of the two files that control the app you’re seeing
+ 
+ 
+ 
 2. Now that you see the code, can you find where the typo is?
 3. Once you spot the typo, correct it by typing in the correct spelling
 4. Type '**Command+S**' to save your changes to the code
