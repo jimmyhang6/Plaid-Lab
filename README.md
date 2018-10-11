@@ -59,7 +59,7 @@ Now in the web browser, you'll seeing the account balances for the sample accoun
 1. Go back to the Atom window and make sure '**index.ejs**' is selected at the top of the window
  * This is one of the two files that control the app you’re seeing
  
- 
+![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Screen%20Shot%202018-10-11%20at%202.47.12%20PM.png)
  
 2. Now that you see the code, can you find where the typo is?
 3. Once you spot the typo, correct it by typing in the correct spelling
