@@ -40,13 +40,19 @@ Now we'll start to perform a few tasks to connect with Plaid's API and pull the 
 3. Select a financial instiution by clicking on any logo
 4. Type '**user_good**' in the User ID field
 5. Type '**pass_good**' in the Password field
-6. Click '**Submit**'
-
-The app has now connected to the sample bank account
-
+6. Click '**Submit**' (The app has now connected to the sample bank account)
 7. Click the '**Send request**' button to begin retrieving bank data
 
 ## Editing the code
 Now in the web browser, you'll seeing the account balances for the sample account we connected using Plaid. If you take a closer look, you may notice a typo. We're now going to edit the code to correct the typo on the page.
 
+1. Go back to the Atom window and make sure '**index.ejs**' is selected at the top of the window
+ * This is one of the two files that control the app you’re seeing
+2. Now that you see the code, can you find where the typo is?
+3. Once you spot the typo, correct it by typing in the correct spelling
+4. Type '**Command+S**' to save your changes to the code
+5. Go back to your Chrome browser and type '**Command+R**' to refresh the browser
+ * Note: You will be prompted to re-conenct the sample account using Plaid Link (user_good/pass_good)
+6. Check to see that your code change has been applied in the browser
 
+Congratulations! You’ve fixed your first bug!
