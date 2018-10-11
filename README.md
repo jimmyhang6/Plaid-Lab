@@ -10,6 +10,7 @@ Let's get started:
 ## Prerequisites
 - Mac laptop
 - Download and Install Code Editor: [Atom](https://atom.io/)
+![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
 
 ## Getting Started
 1. Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your desktop. 
@@ -29,6 +30,18 @@ Let's get started:
  * The browser is where your web app will be displayed for you to see
  * You should see a website that says “Plaid Quickstart” at the top
 
-![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
-
 At this point the app is running on your laptop!
+
+Now that you have the app running, we'll start to perform a few tasks to connect with Plaid's API and pull the required financial data.
+
+## Connecting a bank account using Plaid Link
+1. In your Chrome browser, click on '**Connect with Plaid**'
+2. Click '**Continue**' to accept the privacy policy
+3. Select a financial instiution by clicking on a logo
+4. Type '**user_good**' in the User ID field
+5. Type '**pass_good**' in the Password field
+6. Click '**Submit**'
+
+The app has now connected to the sample bank account
+
+7. Click the '**Send request**' button to begin retrieving bank data
