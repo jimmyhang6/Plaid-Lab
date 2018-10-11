@@ -3,9 +3,10 @@
 Welcome to the first Plaid Lab!
 In this lab session, you'll learn the basics of coding and then get to apply your knowledge to change a bit of code in an existing app.
 
-Let's get started:
-
-
+## Terminology
+- Language: What the code is written in; There's various languages like Python and Java Script. We'll be using Java Script for this lab.
+- Editor: This is what the code is written in. There's lots of text editors from Notepad to Sublime. We'll be using Atom for tihs lab.
+- Browser: This is where the code will be displayed within as part of the web app we're using.
 
 ## Prerequisites
 - Mac laptop
