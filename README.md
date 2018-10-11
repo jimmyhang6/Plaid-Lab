@@ -9,15 +9,15 @@ Let's get started:
 
 ## Prerequisites
 - Mac laptop
-- Download and Install Code Editor: [Atom](https://atom.io/)
+- Download and install a code editor: [Atom](https://atom.io/)
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
+ * Make sure you add Atom to your '**Applications**' folder upon installation
 
 ## Getting Started
-1. Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your desktop. 
+1. Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your '**Downloads**' folder. 
 
 2. Open the zip file (double click) and you should see a '**codelab**' folder which contains the pre-packaged app we'll be using for this session.
-  * The '**codelab**' folder should be on your desktop, if not, move it from your '**Downloads**' folder
-  * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep It**'
+  * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep**'
 
 3. Open the Terminal using these keys: Command+Space; type “terminal”; press Enter)
  * The Terminal will let you run the app we’re using in this codelab
@@ -37,7 +37,7 @@ Now that you have the app running, we'll start to perform a few tasks to connect
 ## Connecting a bank account using Plaid Link
 1. In your Chrome browser, click on '**Connect with Plaid**'
 2. Click '**Continue**' to accept the privacy policy
-3. Select a financial instiution by clicking on a logo
+3. Select a financial instiution by clicking on any logo
 4. Type '**user_good**' in the User ID field
 5. Type '**pass_good**' in the Password field
 6. Click '**Submit**'
@@ -45,3 +45,8 @@ Now that you have the app running, we'll start to perform a few tasks to connect
 The app has now connected to the sample bank account
 
 7. Click the '**Send request**' button to begin retrieving bank data
+
+## Editing the code
+Now in the web browser, you'll seeing the account balances for the sample account we connected using Plaid. If you take a closer look, you may notice a typo. We're now going to edit the code to correct the typo on the page.
+
+
