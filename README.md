@@ -19,7 +19,10 @@ Look for the '**Download**' button in the top-right corner
   * The '**codelab**' folder should be on your desktop, if not, move it from your '**Downloads**' folder
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep It**'
 
-3. Open the Terminal app which is already installed on your computer(Command+Space; type “Terminal”; press Enter)
- * Using a terminal will let you run the app we’re using in this codelab
- * You run commands by typing (or copy-pasting) the instructions below and pressing Enter
+3. Open the Terminal using these keys: Command+Space; type “terminal”; press Enter)
+ * The Terminal will let you run the app we’re using in this codelab
+ * You run commands by typing the instructions below and pressing Enter
+
+4. Run this command: **cd ~/Desktop/codelab**
+ * It will tell the Terminal to look in the '**codelabs**' folder you’ve just unzipped on your desktop
 
