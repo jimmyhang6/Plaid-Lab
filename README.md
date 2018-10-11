@@ -87,6 +87,7 @@ Congratulations! You’ve fixed your first bug!
  * HTML tables are made up of rows (tr) and cells (td)
  * The word strong tells the browser which words to  emphasize
  * Follow this [link](https://codepen.io/tiberiusf/pen/rqwzYj) to see an example of HTML tables in action. Feel free to take some time to change or add rows. Keep in mind the sum won’t auto-update - not to worry! 
+
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/HTML%20Tables.png)
  
  * We also need functions: code formulas that take inputs and transform them into outputs
