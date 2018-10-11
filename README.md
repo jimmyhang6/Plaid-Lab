@@ -12,9 +12,8 @@ In this lab session, you'll learn the basics of coding and then get to apply you
 
 ## Prerequisites
 - Mac laptop
-- Download and install a code editor: [Atom](https://atom.io/)
+- Download and install a code editor: [Atom](https://atom.io/) (Make sure you add Atom to your 'Applications' folder upon installation)
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
- * Make sure you add Atom to your '**Applications**' folder upon installation
 
 ## Getting Started
 1. Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your '**Downloads**' folder. 
