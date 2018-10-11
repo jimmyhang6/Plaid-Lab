@@ -12,14 +12,14 @@ Let's get started:
 - Download and Install Code Editor: [Atom](https://atom.io/)
 
 ## Getting Started
-- Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your desktop. 
+1. Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your desktop. 
 Look for the '**Download**' button in the top-right corner
 
-- Open the zip file (double click) and you should see a '**codelab**' folder which contains the pre-packaged app we'll be using for this session.
+2. Open the zip file (double click) and you should see a '**codelab**' folder which contains the pre-packaged app we'll be using for this session.
   * The '**codelab**' folder should be on your desktop, if not, move it from your '**Downloads**' folder
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep It**'
 
-- Open the Terminal app which is already installed on your computer(Command+Space; type “Terminal”; press Enter)
+3. Open the Terminal app which is already installed on your computer(Command+Space; type “Terminal”; press Enter)
  * Using a terminal will let you run the app we’re using in this codelab
  * You run commands by typing (or copy-pasting) the instructions below and pressing Enter
 
