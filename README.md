@@ -78,9 +78,9 @@ Congratulations! You’ve fixed your first bug!
 2. Now go back to Atom and look at Lines 13-46 (these numbers may change) from index.ejs which contains the code that shows the accounts and balances
 3. Before we can fix them, let’s take a quick break to go over some programming fundamentals:  
  * HTML is a language that controls website layout
-  * The quickstart app we are using uses HTML tables
-  * HTML tables are made up of rows (tr) and cells (td)
-  * The word strong tells the browser which words to  emphasize
-  * Follow this link to see an example of HTML tables in action 
-  * Feel free to take some time to change or add rows. Keep in mind the sum won’t auto-update - not to worry! We also need functions: code formulas that take inputs and transform them into outputs
-  * Follow This link to see examples of a function that squares a number
+ * The quickstart app we are using uses HTML tables
+ * HTML tables are made up of rows (tr) and cells (td)
+ * The word strong tells the browser which words to  emphasize
+ * Follow this link to see an example of HTML tables in action 
+ * Feel free to take some time to change or add rows. Keep in mind the sum won’t auto-update - not to worry! We also need functions: code formulas that take inputs and transform them into outputs
+ * Follow This link to see examples of a function that squares a number
