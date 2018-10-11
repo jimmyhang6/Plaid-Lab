@@ -7,7 +7,7 @@ Let's get started:
 
 
 
-**##Prerequisites##**
+##Prerequisites
 - Mac laptop
 - Download and Install Code Editor: [Atom](https://atom.io/)
 
