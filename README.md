@@ -13,7 +13,6 @@ Let's get started:
 
 ## Getting Started
 1. Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your desktop. 
-Look for the '**Download**' button in the top-right corner
 
 2. Open the zip file (double click) and you should see a '**codelab**' folder which contains the pre-packaged app we'll be using for this session.
   * The '**codelab**' folder should be on your desktop, if not, move it from your '**Downloads**' folder
@@ -30,4 +29,6 @@ Look for the '**Download**' button in the top-right corner
  * The browser is where your web app will be displayed for you to see
  * You should see a website that says “Plaid Quickstart” at the top
 
-![](https://github.com/jimmyhang6/plaid-my-first-app/blob/readme-edits/atom_download_page.png)
+![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
+
+At this point the app is running on your laptop!
