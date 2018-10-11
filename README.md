@@ -29,3 +29,5 @@ Look for the '**Download**' button in the top-right corner
 5. Go to http://localhost:8001 in your Chrome browser
  * The browser is where your web app will be displayed for you to see
  * You should see a website that says “Plaid Quickstart” at the top
+
+![](https://github.com/jimmyhang6/plaid-my-first-app/blob/readme-edits/atom_download_page.png)
