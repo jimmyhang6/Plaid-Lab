@@ -19,7 +19,7 @@ Let's get started:
 2. Open the zip file (double click) and you should see a '**codelab**' folder which contains the pre-packaged app we'll be using for this session.
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep**'
   
- ![] (https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Codelab%20Zip%20File%20Download.png)
+ ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Codelab%20Zip%20File%20Download.png)
 
 3. Open the Terminal using these keys: Command+Space; type “terminal”; press Enter)
  * The Terminal will let you run the app we’re using in this codelab
