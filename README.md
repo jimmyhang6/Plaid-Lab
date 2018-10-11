@@ -32,6 +32,8 @@ Let's get started:
  * This command tells Atom to open the two files you’ll be editing. You can switch between them at the top in Atom. 
  * If a screen prompt appears asking about Xcode, click on '**Not now**'
  
+ ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/XCode.png)
+ 
 6. Run this command in the Terminal: `./run_me.sh` 
  * If asked if you want to accept network connections, click “Allow”
  * It starts the app we’re going to be using on your computer
