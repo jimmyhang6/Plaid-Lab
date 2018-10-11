@@ -11,6 +11,6 @@ Let's get started:
 - Mac laptop
 - Download and Install Code Editor: [Atom](https://atom.io/)
 
-##Getting Started##
-- Download and save [codelab.zip] (https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your desktop
+## Getting Started
+- Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your desktop
 There’s a “Download” button in the top-right corner
