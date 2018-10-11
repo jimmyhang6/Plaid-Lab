@@ -19,3 +19,7 @@ Look for the '**Download**' button in the top-right corner
   * The '**codelab**' folder should be on your desktop, if not, move it from your '**Downloads**' folder
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep It**'
 
+- Open the Terminal app which is already installed on your computer(Command+Space; type “Terminal”; press Enter)
+ * Using a terminal will let you run the app we’re using in this codelab
+ * You run commands by typing (or copy-pasting) the instructions below and pressing Enter
+
