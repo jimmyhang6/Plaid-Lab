@@ -55,7 +55,7 @@ Now we'll start to perform a few tasks to connect with Plaid's API and pull the 
 6. Click '**Submit**' (The app has now connected to the sample bank account)
 7. Click the '**Send request**' button to begin retrieving bank data
 
-## Editing the code
+## Editing the code - Part 1
 Now in the web browser, you'll seeing the account balances for the sample account we connected using Plaid. If you take a closer look, you may notice a typo. We're now going to edit the code to correct the typo on the page.
 
 1. Go back to the Atom window and make sure '**index.ejs**' is selected at the top of the window
@@ -72,4 +72,15 @@ Now in the web browser, you'll seeing the account balances for the sample accoun
 
 Congratulations! You’ve fixed your first bug!
 
-## Editing the code
+## Editing the code - Part 2
+
+1. In the Chrome browser where you see your web app, you’ll notice that the total balance is reported as 1,000,000,000 instead of the actual total balance.
+2. Now go back to Atom and look at Lines 13-46 (these numbers may change) from index.ejs which contains the code that shows the accounts and balances
+3. Before we can fix them, let’s take a quick break to go over some programming fundamentals:  
+ * HTML is a language that controls website layout
+  * The quickstart app we are using uses HTML tables
+  * HTML tables are made up of rows (tr) and cells (td)
+  * The word strong tells the browser which words to  emphasize
+  * Follow this link to see an example of HTML tables in action 
+  * Feel free to take some time to change or add rows. Keep in mind the sum won’t auto-update - not to worry! We also need functions: code formulas that take inputs and transform them into outputs
+  * Follow This link to see examples of a function that squares a number
