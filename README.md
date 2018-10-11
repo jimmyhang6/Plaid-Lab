@@ -16,6 +16,6 @@ Let's get started:
 Look for the '**Download**' button in the top-right corner
 
 - Open the zip file (double click) and you should see a '**codelab**' folder which contains the pre-packaged app we'll be using for this session.
-  * The **codelab** folder should be on your desktop, if not, move it from your 'Downloads' folder
+  * The '**codelab**' folder should be on your desktop, if not, move it from your '**Downloads**' folder
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep It**'
 
