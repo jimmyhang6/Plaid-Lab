@@ -28,7 +28,16 @@ Let's get started:
 4. Run this command in the Terminal: `cd ~/Desktop/codelab`
  * It will tell the Terminal to look in the '**codelabs**' folder you’ve just unzipped on your desktop
 
-5. Go to http://localhost:8001 in your Chrome browser
+5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh index.js views/index.ejs`
+ * If it asks anything about Xcode, click on “Not now”
+ * Tells Atom to open the two files we’ll be editing. You can switch between them at the top.
+ * Feel free to close (x out of) other windows, like the Atom welcome screen
+
+6. Run this command in the Terminal: `./run_me.sh .` 
+ * If asked if you want to accept network connections, click “Allow”
+ * It starts the app we’re going to be using on your computer
+
+7. Go to http://localhost:8001 in your Chrome browser
  * The browser is where your web app will be displayed for you to see
  * You should see a website that says “Plaid Quickstart” at the top
 
