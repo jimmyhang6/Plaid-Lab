@@ -72,6 +72,8 @@ Now in the web browser, you'll seeing the account balances for the sample accoun
 
 Congratulations! You’ve fixed your first bug!
 
+![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Typo%20Fixed.png)
+
 ## Editing the code - Part 2
 
 1. In the Chrome browser where you see your web app, you’ll notice that the total balance is reported as 1,000,000,000 instead of the actual total balance.
