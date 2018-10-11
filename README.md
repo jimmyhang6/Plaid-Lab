@@ -32,7 +32,7 @@ Let's get started:
 
 At this point the app is running on your laptop!
 
-Now that you have the app running, we'll start to perform a few tasks to connect with Plaid's API and pull the required financial data.
+Now we'll start to perform a few tasks to connect with Plaid's API and pull the required financial data.
 
 ## Connecting a bank account using Plaid Link
 1. In your Chrome browser, click on '**Connect with Plaid**'
