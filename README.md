@@ -33,7 +33,7 @@ Let's get started:
  * Tells Atom to open the two files we’ll be editing. You can switch between them at the top.
  * Feel free to close (x out of) other windows, like the Atom welcome screen
 
-6. Run this command in the Terminal: `./run_me.sh .` 
+6. Run this command in the Terminal: `./run_me.sh` 
  * If asked if you want to accept network connections, click “Allow”
  * It starts the app we’re going to be using on your computer
 
