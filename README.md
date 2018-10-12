@@ -5,9 +5,9 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 
 ## Terminology
 - Code: The information interpreted to create computer software, apps and websites. In order to tell the computer what you want, you have to speak to the computer in a language it understands.
-- Language: What the code is written in; There's various languages like Python and Javascript. We'll be using Javascript for this lab.
-- Editor: This is what the code is written in. There's lots of text editors from Notepad to Sublime. We'll be using Atom for this lab.
-- Terminal: An application on your Mac laptop that you input commands into for it to execute upon.
+- Language: The conventions for how code is written. There's various languages like Python and Javascript. We'll be using Javascript for this lab.
+- Editor: This is the software that you use to write the code in. There's lots of text editors from Notepad to Sublime. We'll be using Atom for this lab.
+- Terminal: An application on your Mac laptop that lets you input commands and then executes those commands.
 - Browser: This is where the code will be displayed within as part of the web app we're using.
 
 ## Tools (Prerequisites)
