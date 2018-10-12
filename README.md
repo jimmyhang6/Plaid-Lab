@@ -16,23 +16,25 @@ In this lab session, you'll learn the basics of coding and then get to apply you
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
 
 ## Getting Started
-1. Download and save [codelab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your '**Downloads**' folder. 
+1. Download the [PlaidLab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your '**Downloads**' folder. 
 
-2. Open the zip file (double click) and you should see a '**codelab**' folder which contains the pre-packaged app we'll be using for this session.
+2. Open the zip file (double click) and you should see a '**PlaidLab**' folder which contains the pre-packaged app we'll be using for this session.
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep**'
   
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Codelab%20Zip%20File%20Download.png)
 
 3. Open the Terminal using these keys: Command+Space; type “terminal”; press Enter)
- * The Terminal will let you run the app we’re using in this codelab
- * You run commands by typing the instructions below and pressing Enter
+ * The Terminal will let you run the app we’re using in this Plaid Lab
+ * You run commands by typing the instructions below and pressing **Enter**
 
 4. Run this command in the Terminal: `cd ~/Desktop/codelab`
- * This command tells the Terminal to look in the '**codelabs**' folder that you’ve just unzipped 
+ * This command tells the Terminal to look in the '**PlaidLabs**' folder that you’ve just unzipped 
 
 5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh index.js views/index.ejs`
  * This command tells Atom to open the two files you’ll be editing. You can switch between them at the top in Atom. 
  * If a screen prompt appears asking about Xcode, click on '**Not now**'
+ 
+ 
  
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/XCode.png)
  
