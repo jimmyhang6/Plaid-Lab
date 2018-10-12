@@ -192,3 +192,31 @@ Now that you understand HTML tables and functions, let’s switch back to Atom t
 
 4. In Atom, find **line 59** it passes totalBalance as the input to a function. However,the total balance is set to 1,000,000,000 on **line 47** which is incorrect.
 5. Replace **1,000,000,000** with **0** on **line 47** for now - we’ll then have to calculate the right total balance
+
+```
+// In the function below we will use a for loop (represented
+// by the word "forEach") to compute the sum of some account balances.
+// Ignore the "run" function itself - it's required boilerplate.
+function run() {
+  // Initially the total balance is 0, because we haven't added anything yet.
+  let totalBalance = 0;
+  // This is the list of balances we want to add up. In real apps, these
+  // will come from api API. For example: let balances = data.accounts.accounts;
+  let balances = [100, 200, 300];
+  
+  // The next line goes through the balances: "for each" balance,
+  // do something with it. (add it to the total balance)
+  balances.forEach(
+    // accountBalance represents the balance currently being processed.
+    accountBalance => {
+      // This line adds the current number to the running total balance.
+      totalBalance += accountBalance;
+    }
+  );
+  
+  // Here we're done and report the total balance we've calculated.
+  // You can try changing some of the numbers from the list above
+  // (or even adding or removing some numbers) to see the sum change.
+  return totalBalance;
+};
+```
