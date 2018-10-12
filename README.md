@@ -146,4 +146,45 @@ function run() {
 };
 ```
 4. Now let’s put the HTML table and function together which is how the app shows the account names, balances and total sum.
- 8 See below or follow this [link](https://codepen.io/tiberiusf/pen/vVZWKy)for an example of how functions can be used to create tables.
+ * See below or follow this [link](https://codepen.io/tiberiusf/pen/vVZWKy)for an example of how functions can be used to create tables.
+ ```
+ // Time to reinforce your knowledge about functions and tables!
+//
+// This function creates another table, like the previous snippet
+// (https://codepen.io/tiberiusf/pen/rqwzYj), but instead of
+// creating the table directly it creates it by combining the
+// outputs of other, smaller functions.
+function createTable() {
+  return '<table>' +
+            // getHeader (see below) creates table headers
+            createHeader() +
+            // getRow (see below) creates table rows with
+            // the account names and balances you give it.
+            createRow('Checking account', 100) +
+            createRow('Savings account', 200) +
+         '</table>';
+}
+
+// createHeader (used above in createTable) returns the header.
+function createHeader() {
+  return `<tr>
+            <td><strong>Name</strong></td>
+            <td><strong>Balance</strong></td>
+         </tr>`;
+}
+
+// createRow (used above in getTable) has two inputs (the name
+// and the balance) and uses them to create a row.
+function createRow(accountName, balance) {
+  return '<tr>' +
+            '<td>' + accountName + '</td>' +
+            '<td>' + balance + '</td>' +
+          '</tr>';
+}
+
+// This function is the glue that puts everything together.
+// You can just ignore it; it's not relevant to the codelab.
+function run() {
+  return createTable();
+}
+ ```
