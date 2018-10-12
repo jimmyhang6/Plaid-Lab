@@ -70,7 +70,7 @@ Now in the web browser, you'll seeing the account balances for the sample accoun
  
 2. Now that you see the code, can you find where the typo is?
 <details>
- <summary>Answer</summary>
+ <summary>Click here for the answer</summary>
 
 It says “Ttoal balance” instead of “Total balance”.
 </details>
