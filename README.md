@@ -10,7 +10,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 - Terminal: An application on your Mac laptop that lets you input commands and then executes those commands.
 - Browser: This is where your web app will be displayed for you to interact with it.
 
-## Tools (Prerequisites)
+## Required Tools
 - Mac laptop
 - Download and install a code editor: [Atom](https://atom.io/) (Make sure you add Atom to your 'Applications' folder upon installation)
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
