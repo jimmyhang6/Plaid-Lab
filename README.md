@@ -40,11 +40,11 @@ In this lab session, you'll learn the basics of coding and then get to apply you
  * This command starts the app we’re going to be using on your computer 
  * If asked if you want to accept network connections, click '**Allow**'
  
-7. Now click on this link '**http://localhost:8001**' which will open in your Chrome browser
- * The browser is where your web app will be displayed for you to see
- * You should see a website that says “Plaid Quickstart” at the top
+7. Now click on this UR **http://localhost:8001** which will open your Chrome browser
+ * The browser is where the web app will be displayed for you to see
+ * You should see a website that says '**Welcome to the Plaid Lab App**' at the top
 
-At this point the app is running on your laptop!
+:thumbsup: At this point the app is running on your laptop! :thumbsup:
 
 Now we'll start to perform a few tasks to connect with Plaid's API and pull the required financial data.
 
