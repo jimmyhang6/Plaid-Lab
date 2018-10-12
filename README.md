@@ -235,7 +235,7 @@ Each account’s balance is available inside the for loop (lines 50-57). Can you
 
 <details>
  <summary> Need more help? </summary>
- You need to add <strong>accountBalance</strong> to <strong>totalBalance</strong> inside the loop like in the example above?
+ You need to add <strong>accountBalance</strong> to <strong>totalBalance</strong> inside the loop like in the example above.
  
 </details>
 <br/>
