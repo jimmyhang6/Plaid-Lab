@@ -30,6 +30,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 
 4. Run this command in the Terminal: `cd ~/Downloads/PlaidLab`
  * This command tells the Terminal to look in the '**PlaidLab**' folder that you’ve just unzipped 
+ * 'cd' stands for change directory 
 
 5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views/balance.ejs`
  * This command tells Atom to open the **balance.ejs** file that you’ll be editing.
@@ -39,12 +40,12 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/XCode.png)
  
 6. Run this command in the Terminal: `./run_me.sh` 
- * This command starts the app we’re going to be using on your computer 
+ * This command starts the app that we’re going to be using on your computer 
  * If asked if you want to accept network connections, click '**Allow**':
  
   ![](https://github.com/jimmyhang6/Plaid-Lab/blob/master/accept_network_connections.png)
  
-7. Now open this URL in a new tab in your Chrome browser: **http://localhost:8001** 
+7. Now open this URL in a new tab in your Chrome browser: **http://localhost:8001** [Command+Click]
  * The browser is where the web app will be displayed for you to see
  * You should see a webpage that says '**Welcome to the Plaid Lab App!**' at the top
 
@@ -71,7 +72,7 @@ To access financial data, you'll need to connect a sample bank account to the we
 Now in the web browser, you'll see all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
 
 <details>
- <summary> Need help finding the typo? </summary>
+ <summary> Need help finding the typo in Chrome? </summary>
 It says “Ttoal balance” instead of “Total balance”.
 </details>
 <br/>
@@ -79,7 +80,7 @@ It says “Ttoal balance” instead of “Total balance”.
 1. Go back to the Atom window 
 2. Now that you see the code, can you find which part in the code the typo is located at?
 <details>
- <summary> Need help finding the typo? </summary>
+ <summary> Need help finding the typo in Atom? </summary>
 You can use Command+F to search in Atom for the typo or refer to line 37
 </details>
 <br/>
@@ -96,7 +97,7 @@ Congratulations! You’ve fixed your first bug!
 
 ## Change the app by editing the code - Part 2
 
-1. In the Chrome browser where you see your web app, you’ll notice that the total balance is reported as 1,000,000,000 instead of the actual total balance.
+1. In the Chrome browser where you see your web app, you’ll notice that the total balance is reported as 1000000000 instead of the actual total balance.
 
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Number.png)
 
