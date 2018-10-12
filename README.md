@@ -1,11 +1,11 @@
 # Plaid Lab
 
 Welcome to the first Plaid Lab!
-In this lab session, you'll learn the basics of coding and then get to apply your knowledge to change a bit of code in an existing app.
+In this lab session, you'll learn the basics of coding and then apply your knowledge to change a bit of code in an existing app.
 
 ## Terminology
 - Code: The information interpreted to create computer software, apps and websites. In order to tell the computer what you want, you have to speak to the computer in a language it understands.
-- Language: What the code is written in; There's various languages like Python and Java Script. We'll be using Java Script for this lab.
+- Language: What the code is written in; There's various languages like Python and Javascript. We'll be using Javascript for this lab.
 - Editor: This is what the code is written in. There's lots of text editors from Notepad to Sublime. We'll be using Atom for tihs lab.
 - Terminal: An application on your Mac laptop that you input commands into for it to execute upon.
 - Browser: This is where the code will be displayed within as part of the web app we're using.
