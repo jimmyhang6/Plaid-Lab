@@ -64,7 +64,7 @@ To access financial data, you'll need to connect a sample bank account to the we
 8. Click the '**Go**' button to begin retrieving bank data
  * In this case, we're making a request using the **/accounts/get endpoint** to retrieve the account and balance information
 
-## Editing the code - Part 1
+## Change the app by editing the code - Part 1
 Now in the web browser, you'll see all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
 
 <details>
@@ -91,7 +91,7 @@ Congratulations! You’ve fixed your first bug!
 
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Typo%20Fixed.png)
 
-## Editing the code - Part 2
+## Change the app by editing the code - Part 2
 
 1. In the Chrome browser where you see your web app, you’ll notice that the total balance is reported as 1,000,000,000 instead of the actual total balance.
 
