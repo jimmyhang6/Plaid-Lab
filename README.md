@@ -133,7 +133,7 @@ Now that you understand functions, let’s switch back to Atom to fix the incorr
 
 ```js
 // In the function below we will use a "for loop" (represented by the word "forEach")
-to compute the sum of some account balances. "function run()" is required boilerplate.
+// to sum up some account balances. "function run()" is required boilerplate.
 function run() {
   // Initially the total balance is 0, because we haven't added anything yet.
   let totalBalance = 0;
