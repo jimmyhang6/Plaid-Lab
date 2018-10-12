@@ -106,8 +106,8 @@ Congratulations! You’ve fixed your first bug!
 2. Now go back to Atom and look at **lines 44-62** which contains the code that shows the accounts and balances
 3. Before we can fix them, let’s pause to go over some programming fundamentals:  
  * Functions are code formulas that take inputs and transform them into outputs
- * See below or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) for an example of a function that adds numbers together
- * In the snippets below, lines starting with `//` are comments. Comments explain how the actual code (all the other lines) works.
+ * See below (or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) and maximize the JS pane) for an example of a function that adds numbers together
+ * In code snippets, lines starting with `//` are comments. Comments explain how the actual code (all the other lines) works.
 ```js
 // A function is like a formula that transforms its inputs into an output.
 // This function has three inputs, and the output is their sum.
@@ -119,7 +119,6 @@ function sum(firstNumber, secondNumber, thirdNumber) {
 // Ignore the "run" function itself - it's required boilerplate.
 function run() {
   // This sets the input to 3, 2, 7, which makes it print 12 (3 + 2 + 7) below.
-  // Can you change some of the inputs to other numbers and see what happens?
   return sum(3, 2, 7);
 }; 
 ```
@@ -130,7 +129,7 @@ Now that you understand functions, let’s switch back to Atom to fix the incorr
 5. Replace **1,000,000,000** with **0** on **line 47** for now - we’ll then have to calculate the right total balance
 
  * Before we can do that, we need just a little more programming background
- * See below or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) for an example of using a loop to calculate the sum of account balances
+ * See below (or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) and maximize the JS pane) for an example of using a loop to calculate the sum of account balances:
 
 ```js
 // In the function below we will use a "for loop" (represented
@@ -154,8 +153,6 @@ function run() {
   );
   
   // Here we're done and report the total balance we've calculated.
-  // You can try changing some of the numbers from the list above
-  // (or even adding or removing some numbers) to see the sum change.
   return totalBalance;
 };
 ```
