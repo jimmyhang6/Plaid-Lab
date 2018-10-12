@@ -30,7 +30,7 @@ In this lab session, you'll learn the basics of coding and then get to apply you
 4. Run this command in the Terminal: `cd ~/Downloads/PlaidLab`
  * This command tells the Terminal to look in the '**PlaidLab**' folder that you’ve just unzipped 
 
-5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views.ejs`
+5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views/balance.ejs`
  * This command tells Atom to open the **balance.ejs** file that you’ll be editing.
  * If a screen prompt appears asking about Xcode, click on '**Not now**' 
  
