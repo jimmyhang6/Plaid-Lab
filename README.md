@@ -116,7 +116,7 @@ function sum(firstNumber, secondNumber, thirdNumber) {
   return firstNumber + secondNumber + thirdNumber;
 };
 
-// Ignore the "run" function itself - it's required boilerplate.
+// No need to focus on "function run()" - it's required boilerplate.
 function run() {
   // This sets the input to 3, 2, 7, which makes it print 12 (3 + 2 + 7) below.
   return sum(3, 2, 7);
