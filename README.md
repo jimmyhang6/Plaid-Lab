@@ -30,7 +30,7 @@ In this lab session, you'll learn the basics of coding and then get to apply you
 4. Run this command in the Terminal: `cd ~/Downloads/PlaidLab`
  * This command tells the Terminal to look in the '**PlaidLab**' folder that you’ve just unzipped 
 
-5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views/balance.ejs`
+5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views.ejs`
  * This command tells Atom to open the **balance.ejs** file that you’ll be editing.
  * If a screen prompt appears asking about Xcode, click on '**Not now**' 
  
@@ -58,7 +58,7 @@ To access essential financial data, you'll need to connect a sample bank account
 5. Type '**pass_good**' in the password field
 6. Click '**Submit**' (The app has now connected to the sample bank account)
 7. Click the '**Send request**' button to begin retrieving bank data
- * In this case, we're making a request using the **/balance endpoint** to retrieve current balances
+ * In this case, we're making a request using the **/accounts/get endpoint** to retrieve current account and balance information
 
 ## Editing the code - Part 1
 Now in the web browser, you'll seeing the account balances for the sample account we connected using Plaid. If you take a closer look, you may notice a typo. We're now going to edit the code to correct the typo on the page.
@@ -80,7 +80,7 @@ It says “Ttoal balance” instead of “Total balance”.
  * Note: You will be prompted to re-conenct the sample account using Plaid Link (user_good/pass_good)
 6. Check to see that your code change has been applied in the browser
 
-Congratulations! You’ve fixed your first bug!
+Congratulations! You’ve fixed your first bug! 
 
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Typo%20Fixed.png)
 
