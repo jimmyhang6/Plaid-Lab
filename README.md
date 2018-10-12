@@ -27,14 +27,12 @@ In this lab session, you'll learn the basics of coding and then get to apply you
  * The Terminal will let you run the app we’re using in this Plaid Lab
  * You run commands by typing the instructions below and pressing **Enter**
 
-4. Run this command in the Terminal: `cd ~/Desktop/codelab`
- * This command tells the Terminal to look in the '**PlaidLabs**' folder that you’ve just unzipped 
+4. Run this command in the Terminal: `cd ~/Downloads/PlaidLab`
+ * This command tells the Terminal to look in the '**PlaidLab**' folder that you’ve just unzipped 
 
-5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh index.js views/index.ejs`
+5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views/balance.ejs`
  * This command tells Atom to open the two files you’ll be editing. You can switch between them at the top in Atom. 
- * If a screen prompt appears asking about Xcode, click on '**Not now**'
- 
- 
+ * If a screen prompt appears asking about Xcode, click on '**Not now**' 
  
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/XCode.png)
  
