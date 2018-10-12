@@ -108,7 +108,7 @@ Congratulations! You’ve fixed your first bug!
  * Functions are code formulas that take inputs and transform them into outputs
  * See below or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) for an example of a function that adds numbers together
  * In the snippets below, lines starting with `//` are comments. Comments explain how the actual code (all the other lines) works.
-```
+```js
 // A function is like a formula that transforms its inputs into an output.
 // This function has three inputs, and the output is their sum.
 function sum(firstNumber, secondNumber, thirdNumber) {
@@ -132,7 +132,7 @@ Now that you understand functions, let’s switch back to Atom to fix the incorr
  * Before we can do that, we need just a little more programming background
  * See below or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) for an example of using a loop to calculate the sum of account balances
 
-```
+```js
 // In the function below we will use a "for loop" (represented
 // by the word "forEach") to compute the sum of some account balances.
 // Ignore the "run" function itself - it's required boilerplate.
