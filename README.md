@@ -105,6 +105,7 @@ Congratulations! You’ve fixed your first bug!
 3. Before we can fix them, let’s pause to go over some programming fundamentals:  
  * Functions are code formulas that take inputs and transform them into outputs
  * See below or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) for an example of a function that adds numbers together
+ * In the snippets below, lines starting with `//` are comments. Comments explain how the actual code (all the other lines) works.
 ```
 // A function is like a formula that transforms its inputs into an output.
 // This function has three inputs, and the output is their sum.
