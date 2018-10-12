@@ -145,3 +145,5 @@ function run() {
   return sum(3, 2, 7);
 };
 ```
+4. Now let’s put the HTML table and function together which is how the app shows the account names, balances and total sum.
+ 8 See below or follow this [link](https://codepen.io/tiberiusf/pen/vVZWKy)for an example of how functions can be used to create tables.
