@@ -100,9 +100,9 @@ Congratulations! You’ve fixed your first bug!
 2. Now go back to Atom and look at **lines 18-62** which contains the code that shows the accounts and balances
 3. Before we can fix them, let’s pause to go over some programming fundamentals:  
  * HTML is a language that controls website layout
- * The quickstart app we are using uses HTML tables
- * HTML tables are made up of rows (tr) and cells (td)
- * The word strong tells the browser which words to  emphasize
+ * The app we are using uses HTML tables
+ * HTML tables are made up of rows (`tr`) and cells (`td`)
+ * The word `strong` tells the browser which words to emphasize
  * See below or follow this [link](https://codepen.io/tiberiusf/pen/rqwzYj) for an example of HTML tables in action. Feel free to change or add rows. Keep in mind the sum won’t auto-update - not to worry! 
  ```
  <!-- The table starts here -->
