@@ -16,7 +16,7 @@ In this lab session, you'll learn the basics of coding and then get to apply you
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
 
 ## Getting Started
-1. Download the [PlaidLab.zip](https://www.dropbox.com/s/pvc074u9g1ybcxk/codelab2.zip?dl=0) (from Dropbox) to your '**Downloads**' folder. 
+1. Download the [PlaidLab.zip](https://www.dropbox.com/s/4xh2vwgalfnd63r/PlaidLab1.zip?dl=0) (from Dropbox) to your '**Downloads**' folder. 
 
 2. Open the zip file (double click) and you should see a '**PlaidLab**' folder which contains the pre-packaged app we'll be using for this session.
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep**'
@@ -80,7 +80,7 @@ You can use Command+F to search in Atom for the typo or refer to line 37
 3. Once you spot the typo, type in the correct spelling
 4. Type '**Command+S**' to save your changes to the code
 5. Go back to your Chrome browser and type '**Command+R**' to refresh the browser
- * Note: You will be prompted to re-conenct the sample account using Plaid Link (user_good/pass_good)
+ * Note: You will be prompted to re-connect the sample account using Plaid Link (user_good/pass_good)
 6. Check to see that your code change has been applied in the browser
 
 Congratulations! You’ve fixed your first bug! 
