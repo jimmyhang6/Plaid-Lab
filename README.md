@@ -1,4 +1,4 @@
-# plaid-my-first-app
+# Plaid Lab
 
 Welcome to the first Plaid Lab!
 In this lab session, you'll learn the basics of coding and then get to apply your knowledge to change a bit of code in an existing app.
