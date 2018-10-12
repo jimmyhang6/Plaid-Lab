@@ -160,7 +160,7 @@ function run() {
 };
 ```
 6. Now back in Atom, try to see if you can update the loop to get the right total balance
-<br/>
+
 :warning: **If you need help you can click on and expand the hints below.** :warning:
 <br/>
 <details>
