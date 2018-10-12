@@ -103,41 +103,7 @@ Congratulations! You’ve fixed your first bug!
 
 2. Now go back to Atom and look at **lines 18-62** which contains the code that shows the accounts and balances
 3. Before we can fix them, let’s pause to go over some programming fundamentals:  
- * HTML is a language that controls website layout
- * The app we are using uses HTML tables
- * HTML tables are made up of rows (`tr`) and cells (`td`)
- * The word `strong` tells the browser which words to emphasize
- * See below or follow this [link](https://codepen.io/tiberiusf/pen/rqwzYj) for an example of HTML tables in action. Feel free to change or add rows. Keep in mind the sum won’t auto-update - not to worry! 
- ```
- <!-- The table starts here -->
-<table>
-  <!-- This is a table row. Columns are generated automatically
-       as long as each row has the same number of cells.
-  -->
-  <tr>
-    <!-- This is a table cell -->
-    <td><strong>Name</strong></td>
-    <!-- This is another cell -->
-    <td><strong>Balance</strong></td>
-  </tr>
-  <!-- The first row ends here, and more follow below. -->
-  <tr>
-    <td>Checking Account</td>
-    <td>$100</td>
-  </tr>
-  <tr>
-    <td>Savings Account</td>
-    <td>$200</td>
-  </tr>
-  <tr>
-    <td><strong>Total balance:</strong></td>
-    <td>$300</td>
-  </tr>
-<!-- The next line means we're done with the table -->
-</table>
-```
- 
- * We also need functions: code formulas that take inputs and transform them into outputs
+ * Functions are code formulas that take inputs and transform them into outputs
  * See below or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) for an example of a function that adds numbers together
 ```
 // A function is like a formula that transforms its inputs into an output.
@@ -147,50 +113,15 @@ function sum(firstNumber, secondNumber, thirdNumber) {
   return firstNumber + secondNumber + thirdNumber;
 };
 
+// Ignore the "run" function itself - it's required boilerplate.
 function run() {
   // This sets the input to 3, 2, 7, which makes it print 12 (3 + 2 + 7) below.
   // Can you change some of the inputs to other numbers and see what happens?
   return sum(3, 2, 7);
 }; 
 ```
- * Now let’s put the HTML table and function together which is how the app shows the account names, balances and total sum.
- * See below or follow this [link](https://codepen.io/tiberiusf/pen/vVZWKy) for an example of how functions can be used to create tables. 
- ```
- // Time to reinforce your knowledge about functions and tables!
-//
-// This function creates another table, like the previous snippet
-// (https://codepen.io/tiberiusf/pen/rqwzYj), but instead of
-// creating the table directly it creates it by combining the
-// outputs of other, smaller functions.
-function createTable() {
-  return '<table>' +
-            // getHeader (see below) creates table headers
-            createHeader() +
-            // getRow (see below) creates table rows with
-            // the account names and balances you give it.
-            createRow('Checking account', 100) +
-            createRow('Savings account', 200) +
-         '</table>';
-}
 
-// createHeader (used above in createTable) returns the header.
-function createHeader() {
-  return `<tr>
-            <td><strong>Name</strong></td>
-            <td><strong>Balance</strong></td>
-         </tr>`;
-}
-
-// createRow (used above in getTable) has two inputs (the name
-// and the balance) and uses them to create a row.
-function createRow(accountName, balance) {
-  return '<tr>' +
-            '<td>' + accountName + '</td>' +
-            '<td>' + balance + '</td>' +
-          '</tr>';
-}
- ```
-Now that you understand HTML tables and functions, let’s switch back to Atom to fix the incorrect toal balance.
+Now that you understand functions, let’s switch back to Atom to fix the incorrect total balance.
 
 4. In Atom, find **line 59** which passes totalBalance as the input to a function. However,the total balance is set to 1,000,000,000 on **line 47** which is incorrect.
 5. Replace **1,000,000,000** with **0** on **line 47** for now - we’ll then have to calculate the right total balance
