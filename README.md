@@ -133,7 +133,7 @@ Now that you understand functions, let’s switch back to Atom to fix the incorr
  * See below or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) for an example of using a loop to calculate the sum of account balances
 
 ```
-// In the function below we will use a for loop (represented
+// In the function below we will use a "for loop" (represented
 // by the word "forEach") to compute the sum of some account balances.
 // Ignore the "run" function itself - it's required boilerplate.
 function run() {
