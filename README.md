@@ -93,13 +93,42 @@ Congratulations! You’ve fixed your first bug!
 
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Number.png)
 
-2. Now go back to Atom and look at Lines 13-46 (these numbers may change) from index.ejs which contains the code that shows the accounts and balances
-3. Before we can fix them, let’s take a quick break to go over some programming fundamentals:  
+2. Now go back to Atom and look at **lines 18-62** which contains the code that shows the accounts and balances
+3. Before we can fix them, let’s pause to go over some programming fundamentals:  
  * HTML is a language that controls website layout
  * The quickstart app we are using uses HTML tables
  * HTML tables are made up of rows (tr) and cells (td)
  * The word strong tells the browser which words to  emphasize
  * Follow this [link](https://codepen.io/tiberiusf/pen/rqwzYj) to see an example of HTML tables in action. Feel free to take some time to change or add rows. Keep in mind the sum won’t auto-update - not to worry! 
+ ```
+ <!-- The table starts here -->
+<table>
+  <!-- This is a table row. Columns are generated automatically
+       as long as each row has the same number of cells.
+  -->
+  <tr>
+    <!-- This is a table cell -->
+    <td><strong>Name</strong></td>
+    <!-- This is another cell -->
+    <td><strong>Balance</strong></td>
+  </tr>
+  <!-- The first row ends here, and more follow below. -->
+  <tr>
+    <td>Checking Account</td>
+    <td>$100</td>
+  </tr>
+  <tr>
+    <td>Savings Account</td>
+    <td>$200</td>
+  </tr>
+  <tr>
+    <td><strong>Total balance:</strong></td>
+    <td>$300</td>
+  </tr>
+<!-- The next line means we're done with the table -->
+</table>
+```
+ 
 
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/HTML%20Tables.png)
  
