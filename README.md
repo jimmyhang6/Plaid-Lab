@@ -42,20 +42,23 @@ In this lab session, you'll learn the basics of coding and then get to apply you
  
 7. Now click on this UR **http://localhost:8001** which will open your Chrome browser
  * The browser is where the web app will be displayed for you to see
- * You should see a website that says '**Welcome to the Plaid Lab App**' at the top
+ * You should see a webpage that says '**Welcome to the Plaid Lab App**' at the top
 
 :thumbsup: At this point the app is running on your laptop! :thumbsup:
 
 Now we'll start to perform a few tasks to connect with Plaid's API and pull the required financial data.
 
 ## Connecting a bank account using Plaid Link
+To access essential financial data, you'll need to connect a sample bank account to the web app using Plaid Link.
+
 1. In your Chrome browser, click on '**Connect with Plaid**'
 2. Click '**Continue**' to accept the privacy policy
-3. Select a financial instiution by clicking on any logo
-4. Type '**user_good**' in the User ID field
-5. Type '**pass_good**' in the Password field
+3. Select a financial institution by clicking on any logo on the screen :bank:
+4. Type '**user_good**' in the user ID field
+5. Type '**pass_good**' in the password field
 6. Click '**Submit**' (The app has now connected to the sample bank account)
 7. Click the '**Send request**' button to begin retrieving bank data
+ * In this case, we're making a request using the **/balance endpoint** to retrieve current balances
 
 ## Editing the code - Part 1
 Now in the web browser, you'll seeing the account balances for the sample account we connected using Plaid. If you take a closer look, you may notice a typo. We're now going to edit the code to correct the typo on the page.
