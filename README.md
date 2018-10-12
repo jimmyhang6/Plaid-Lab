@@ -248,3 +248,5 @@ For line 54, you need to add `totalBalance` += `accountBalance`
 If you see $44,910, awesome! That’s the right answer!
 </details>
 <br/>
+
+Congrats on finishing your first Plaid Lab! Got questions? Contact 
