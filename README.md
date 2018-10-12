@@ -43,7 +43,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
  
   ![](https://github.com/jimmyhang6/Plaid-Lab/blob/master/accept_network_connections.png)
  
-7. Now click on this UR **http://localhost:8001** which will open your Chrome browser
+7. Now open this URL in a new tab in your Chrome browser: **http://localhost:8001** 
  * The browser is where the web app will be displayed for you to see
  * You should see a webpage that says '**Welcome to the Plaid Lab App!**' at the top
 
