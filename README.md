@@ -68,6 +68,7 @@ Now in the web browser, you'll seeing all the balances for the sample account we
 It says “Ttoal balance” instead of “Total balance”.
 </details>
 <br/>
+
 1. Go back to the Atom window 
 2. Now that you see the code, can you find where the typo is?
 <details>
@@ -75,14 +76,11 @@ It says “Ttoal balance” instead of “Total balance”.
 You can use Command+F to search in Atom for the typo or refer to line 37
 </details>
 <br/>
+
 3. Once you spot the typo, type in the correct spelling
-<br>
 4. Type '**Command+S**' to save your changes to the code
-<br>
 5. Go back to your Chrome browser and type '**Command+R**' to refresh the browser
-<br>
  * Note: You will be prompted to re-conenct the sample account using Plaid Link (user_good/pass_good)
-<br>
 6. Check to see that your code change has been applied in the browser
 
 Congratulations! You’ve fixed your first bug! 
