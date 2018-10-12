@@ -65,7 +65,7 @@ To access financial data, you'll need to connect a sample bank account to the we
 6. Click '**Submit**' 
 7. Click '**Continue**' (The app has now connected to the sample bank account)
 8. Click the '**Go**' button to begin retrieving bank data
- * In this case, we're making a request using the **/accounts/get endpoint** to retrieve the account and balance information
+ * In this case, we're making a request using the **/accounts/get** endpoint to retrieve the account and balance information
 
 ## Change the app by editing the code - Part 1
 Now in the web browser, you'll see all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
