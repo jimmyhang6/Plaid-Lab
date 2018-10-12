@@ -188,11 +188,11 @@ function createRow(accountName, balance) {
  ```
 Now that you understand HTML tables and functions, let’s switch back to Atom to fix the incorrect toal balance.
 
-4. In Atom, find **line 59** it passes totalBalance as the input to a function. However,the total balance is set to 1,000,000,000 on **line 47** which is incorrect.
+4. In Atom, find **line 59** which passes totalBalance as the input to a function. However,the total balance is set to 1,000,000,000 on **line 47** which is incorrect.
 5. Replace **1,000,000,000** with **0** on **line 47** for now - we’ll then have to calculate the right total balance
 
  * Before we can do that, we need just a little more programming background
- * See below or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) for an example of using a loop to computer the sum of account balances
+ * See below or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) for an example of using a loop to calculate the sum of account balances
 
 ```
 // In the function below we will use a for loop (represented
@@ -231,7 +231,15 @@ Each account’s balance is available inside the for loop (lines 50-57). Can you
 
 <details>
  <summary> Need more help? </summary>
-To get the right toal balance, you need to add accountBalance to totalBalance inside the loop
+You need to add `accountBalance` to `totalBalance` inside the loop like in the example above?
+ 
+</details>
+<br/>
+
+<details>
+ <summary> Need even more help? </summary>
+For line 54, you need to add totalBalance += accountBalance
+ 
 </details>
 <br/>
 
