@@ -107,7 +107,7 @@ Congratulations! You’ve fixed your first bug!
 3. Before we can fix them, let’s pause to go over some programming fundamentals:  
  * Functions are code formulas that take inputs and transform them into outputs
  * See below (or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) and maximize the JS pane) for an example of a function that adds numbers together
- * In code snippets, lines starting with `//` are comments. Comments explain how the actual code (all the other lines) works.
+ * In code snippets, lines starting with `//` are comments. They explain how the code works.
 ```js
 // A function is like a formula that transforms its inputs into an output.
 // The function on the line below has three inputs, and the output is their sum.
