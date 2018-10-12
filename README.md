@@ -33,6 +33,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views/balance.ejs`
  * This command tells Atom to open the **balance.ejs** file that you’ll be editing.
  * If a screen prompt appears asking about Xcode, click on '**Not Now**' 
+ * Feel free to close other windows like the Atom welcome screen - you'll focus on the **balance.ejs** file
  
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/XCode.png)
  
