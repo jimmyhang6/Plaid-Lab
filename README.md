@@ -91,7 +91,7 @@ You can use Command+F to search in Atom for the typo or refer to line 37
 
 Congratulations! You’ve fixed your first bug! 
 
-![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Typo%20Fixed.png)
+![] (https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Typo%20Fixed.png)
 
 ## Change the app by editing the code - Part 2
 
