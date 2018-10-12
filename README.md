@@ -71,7 +71,7 @@ To access financial data, you'll need to connect a sample bank account to the we
 ## Change the app by editing the code - Part 1
 Now in the web browser, you'll see all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
 
-:warning: If you need help you can click on and expand the hints below. :warning:
+:warning: **If you need help you can click on and expand the hints below.** :warning:
 
 <details>
  <summary> Need help finding the typo in Chrome? </summary>
@@ -161,8 +161,8 @@ function run() {
 ```
 6. Now back in Atom, try to see if you can update the loop to get the right total balance
 <br/>
-:warning: If you need help you can click on and expand the hints below. :warning:
-
+:warning: **If you need help you can click on and expand the hints below.** :warning:
+<br/>
 <details>
  <summary> Need help? </summary>
 Each account’s balance is available inside the for loop (lines 50-57). Can you now calculate the total balance?
