@@ -61,17 +61,18 @@ To access essential financial data, you'll need to connect a sample bank account
  * In this case, we're making a request using the **/accounts/get endpoint** to retrieve the account and balance information
 
 ## Editing the code - Part 1
-Now in the web browser, you'll seeing the account balances for the sample account we connected using Plaid. If you take a closer look, you may notice a typo. We're now going to edit the code to correct the typo on the page.
+Now in the web browser, you'll seeing all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
 
-1. Go back to the Atom window and make sure '**index.ejs**' is selected at the top of the window
- * This is one of the two files that control the app you’re seeing
- 
-![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Screen%20Shot%202018-10-11%20at%202.47.12%20PM.png)
- 
+<details>
+ <summary> **Need help finding the typo?** </summary>
+It says “Ttoal balance” instead of “Total balance”.
+</details>
+
+1. Go back to the Atom window 
 2. Now that you see the code, can you find where the typo is?
 <details>
- <summary> **Need help?** </summary>
-It says “Ttoal balance” instead of “Total balance”.
+ <summary> **Need help finding the typo?** </summary>
+You can use Command+F to search in Atom for the typo or refer to line 37
 </details>
 
 3. Once you spot the typo, correct it by typing in the correct spelling
