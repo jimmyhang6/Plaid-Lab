@@ -80,6 +80,7 @@ You can use Command+F to search in Atom for the typo or refer to line 37
 4. Type '**Command+S**' to save your changes to the code
 <br>
 5. Go back to your Chrome browser and type '**Command+R**' to refresh the browser
+<br>
  * Note: You will be prompted to re-conenct the sample account using Plaid Link (user_good/pass_good)
 <br>
 6. Check to see that your code change has been applied in the browser
