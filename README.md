@@ -10,7 +10,7 @@ In this lab session, you'll learn the basics of coding and then get to apply you
 - Terminal: An application on your Mac laptop that you input commands into for it to execute upon.
 - Browser: This is where the code will be displayed within as part of the web app we're using.
 
-## Prerequisites
+## Tools (Prerequisites)
 - Mac laptop
 - Download and install a code editor: [Atom](https://atom.io/) (Make sure you add Atom to your 'Applications' folder upon installation)
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
@@ -23,7 +23,7 @@ In this lab session, you'll learn the basics of coding and then get to apply you
   
   ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/PlaidLab%20Zip.png)
 
-3. Open the Terminal using these keys: Command+Space; type “terminal”; press Enter)
+3. Open the Terminal using these keys: **Command+Space** then type “**terminal**” and press **Enter**
  * The Terminal will let you run the app we’re using in this Plaid Lab
  * You run commands by typing the instructions below and pressing **Enter**
 
