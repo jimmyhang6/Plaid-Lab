@@ -108,7 +108,7 @@ Congratulations! You’ve fixed your first bug!
  * Functions are code formulas that take inputs and transform them into outputs
  * See below (or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) and maximize the JS pane) for an example of a function that adds numbers together
  
- :warning: If you open snippets in CodePen you can see the results of running the code and even make small changes. We encourage you to take some time explore in the CodePen environment to see what results can be changed by making small changes. :warning:
+ :warning: If you open snippets in CodePen you can see the results of running the code and even make small changes. We encourage you to take some time to explore in the CodePen environment. :warning:
  
  * In code snippets, lines starting with `//` are comments. They explain how the code works.
 ```js
