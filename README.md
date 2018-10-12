@@ -110,7 +110,7 @@ Congratulations! You’ve fixed your first bug!
  * In code snippets, lines starting with `//` are comments. Comments explain how the actual code (all the other lines) works.
 ```js
 // A function is like a formula that transforms its inputs into an output.
-// This function has three inputs, and the output is their sum.
+// The function on the line below has three inputs, and the output is their sum.
 function sum(firstNumber, secondNumber, thirdNumber) {
   // This line just means that it adds the three numbers and reports their sum.
   return firstNumber + secondNumber + thirdNumber;
@@ -132,9 +132,8 @@ Now that you understand functions, let’s switch back to Atom to fix the incorr
  * See below (or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) and maximize the JS pane) for an example of using a loop to calculate the sum of account balances:
 
 ```js
-// In the function below we will use a "for loop" (represented
-// by the word "forEach") to compute the sum of some account balances.
-// Ignore the "run" function itself - it's required boilerplate.
+// In the function below we will use a "for loop" (represented by the word "forEach")
+to compute the sum of some account balances. "function run()" is required boilerplate.
 function run() {
   // Initially the total balance is 0, because we haven't added anything yet.
   let totalBalance = 0;
@@ -142,8 +141,7 @@ function run() {
   // will come from the API. For example: let balances = data.accounts.accounts;
   let balances = [100, 200, 300];
   
-  // The next line goes through the balances: "for each" balance,
-  // do something with it. (add it to the total balance)
+  // The next line goes through the balances: "for each" balance, do something with it.
   balances.forEach(
     // accountBalance represents the balance currently being processed.
     accountBalance => {
