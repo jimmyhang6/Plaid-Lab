@@ -65,7 +65,7 @@ To access financial data, you'll need to connect a sample bank account to the we
  * In this case, we're making a request using the **/accounts/get endpoint** to retrieve the account and balance information
 
 ## Editing the code - Part 1
-Now in the web browser, you'll seeing all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
+Now in the web browser, you'll see all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
 
 <details>
  <summary> Need help finding the typo? </summary>
@@ -74,7 +74,7 @@ It says “Ttoal balance” instead of “Total balance”.
 <br/>
 
 1. Go back to the Atom window 
-2. Now that you see the code, can you find where the typo is?
+2. Now that you see the code, can you find which part in the code the typo is located at?
 <details>
  <summary> Need help finding the typo? </summary>
 You can use Command+F to search in Atom for the typo or refer to line 37
