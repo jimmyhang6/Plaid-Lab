@@ -14,6 +14,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 - Mac laptop
 - Download and install a code editor: [Atom](https://atom.io/) (Make sure you add Atom to your 'Applications' folder upon installation)
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
+- These instructions assume that your browser is Google Chrome and your editor is Atom, but using other browsers and editors is also possible
 
 ## Getting Started
 1. Save and download the [PlaidLab.zip](https://www.dropbox.com/s/jzii4f2z0wdlh1j/PlaidLab.zip?dl=0) file (from Dropbox) to your '**Downloads**' folder. 
@@ -56,7 +57,7 @@ Now we'll start to perform a few tasks to connect with Plaid's API and pull the 
 ## Connecting a bank account using Plaid Link
 To access financial data, you'll need to connect a sample bank account to the web app using Plaid Link.
 
-1. In the new tab in Chrome that you created (http://localhost:8001), click on '**Connect with Plaid**'
+1. In the new Chrome tab you just opened (http://localhost:8001), click on '**Connect with Plaid**'
 2. Click '**Continue**' to accept the privacy policy
 3. Select a financial institution by clicking on any logo on the screen :bank:
 4. Type '**user_good**' in the user ID field
