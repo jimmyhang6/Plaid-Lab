@@ -69,6 +69,11 @@ Now in the web browser, you'll seeing the account balances for the sample accoun
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Screen%20Shot%202018-10-11%20at%202.47.12%20PM.png)
  
 2. Now that you see the code, can you find where the typo is?
+<details>
+ <summary>Answer</summary>
+
+It says “Ttoal balance” instead of “Total balance”.
+</details>
 3. Once you spot the typo, correct it by typing in the correct spelling
 4. Type '**Command+S**' to save your changes to the code
 5. Go back to your Chrome browser and type '**Command+R**' to refresh the browser
