@@ -57,8 +57,8 @@ To access essential financial data, you'll need to connect a sample bank account
 4. Type '**user_good**' in the user ID field
 5. Type '**pass_good**' in the password field
 6. Click '**Submit**' (The app has now connected to the sample bank account)
-7. Click the '**Send request**' button to begin retrieving bank data
- * In this case, we're making a request using the **/accounts/get endpoint** to retrieve current account and balance information
+7. Click the '**Go**' button to begin retrieving bank data
+ * In this case, we're making a request using the **/accounts/get endpoint** to retrieve the account and balance information
 
 ## Editing the code - Part 1
 Now in the web browser, you'll seeing the account balances for the sample account we connected using Plaid. If you take a closer look, you may notice a typo. We're now going to edit the code to correct the typo on the page.
