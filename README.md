@@ -193,6 +193,9 @@ Now that you understand HTML tables and functions, let’s switch back to Atom t
 4. In Atom, find **line 59** it passes totalBalance as the input to a function. However,the total balance is set to 1,000,000,000 on **line 47** which is incorrect.
 5. Replace **1,000,000,000** with **0** on **line 47** for now - we’ll then have to calculate the right total balance
 
+ * Before we can do that, we need just a little more programming background
+ * See below or follow this [link](https://codepen.io/tiberiusf/pen/dgRezm?editors=0010) for an example of using a loop to computer the sum of account balances
+
 ```
 // In the function below we will use a for loop (represented
 // by the word "forEach") to compute the sum of some account balances.
