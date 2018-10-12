@@ -38,7 +38,8 @@ In this lab session, you'll learn the basics of coding and then get to apply you
  
 6. Run this command in the Terminal: `./run_me.sh` 
  * This command starts the app we’re going to be using on your computer 
- * If asked if you want to accept network connections, click '**Allow**'
+ * If asked if you want to accept network connections, click '**Allow**':
+ 
   ![](https://github.com/jimmyhang6/Plaid-Lab/blob/master/accept_network_connections.png)
  
 7. Now click on this UR **http://localhost:8001** which will open your Chrome browser
