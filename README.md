@@ -21,7 +21,7 @@ In this lab session, you'll learn the basics of coding and then get to apply you
 2. Open the zip file (double click) and you should see a '**PlaidLab**' folder which contains the pre-packaged app we'll be using for this session.
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep**'
   
- ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/PlaidLab%20Zip.png)
+  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/PlaidLab%20Zip.png)
 
 3. Open the Terminal using these keys: Command+Space; type “terminal”; press Enter)
  * The Terminal will let you run the app we’re using in this Plaid Lab
