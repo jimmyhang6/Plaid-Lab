@@ -204,7 +204,7 @@ function run() {
   // Initially the total balance is 0, because we haven't added anything yet.
   let totalBalance = 0;
   // This is the list of balances we want to add up. In real apps, these
-  // will come from api API. For example: let balances = data.accounts.accounts;
+  // will come from the API. For example: let balances = data.accounts.accounts;
   let balances = [100, 200, 300];
   
   // The next line goes through the balances: "for each" balance,
