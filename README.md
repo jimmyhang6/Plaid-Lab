@@ -14,7 +14,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 - Mac laptop with Chrome Browser
 - Download and install a code editor: [Atom](https://atom.io/) (Make sure you add Atom to your 'Applications' folder upon installation)
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
-- These instructions assume that your browser is Google Chrome and your editor is Atom, but using other browsers and editors is also possible
+- **Note:** These instructions assume that your browser is Google Chrome and your editor is Atom, but using other browsers and editors is also possible
 
 ## Getting Started
 1. Save and download the [PlaidLab.zip](https://www.dropbox.com/s/jzii4f2z0wdlh1j/PlaidLab.zip?dl=0) file (from Dropbox) to your '**Downloads**' folder. 
