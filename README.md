@@ -47,7 +47,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
  * The browser is where the web app will be displayed for you to see
  * You should see a webpage that says '**Welcome to the Plaid Lab App!**' at the top
 
-![] (https://github.com/jimmyhang6/Plaid-Lab/blob/master/welcome_screen.png)
+![](https://github.com/jimmyhang6/Plaid-Lab/blob/master/welcome_screen.png)
 
 :thumbsup: At this point the app is running on your laptop! :thumbsup:
 
