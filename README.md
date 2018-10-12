@@ -185,12 +185,6 @@ function createRow(accountName, balance) {
             '<td>' + balance + '</td>' +
           '</tr>';
 }
-
-// This function is the glue that puts everything together.
-// You can just ignore it; it's not relevant to the codelab.
-function run() {
-  return createTable();
-}
  ```
 Now that you understand HTML tables and functions, let’s switch back to Atom to fix the incorrect toal balance.
 
