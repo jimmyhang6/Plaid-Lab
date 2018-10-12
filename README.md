@@ -8,7 +8,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 - Language: The conventions for how code is written. There's various languages like Python and Javascript. We'll be using Javascript for this lab.
 - Editor: This is the software that you use to write the code in. There's lots of text editors from Notepad to Sublime. We'll be using Atom for this lab.
 - Terminal: An application on your Mac laptop that lets you input commands and then executes those commands.
-- Browser: This is where the code will be displayed within as part of the web app we're using.
+- Browser: This is where your web app will be displayed for you to interact with it.
 
 ## Tools (Prerequisites)
 - Mac laptop
