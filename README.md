@@ -97,7 +97,7 @@ Congratulations! You’ve fixed your first bug!
 
 1. In the Chrome browser where you see your web app, you’ll notice that the total balance is reported as 1,000,000,000 instead of the actual total balance.
 
-![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Number.png)
+![] (https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Total%20Balance%20Number.png)
 
 2. Now go back to Atom and look at **lines 18-62** which contains the code that shows the accounts and balances
 3. Before we can fix them, let’s pause to go over some programming fundamentals:  
