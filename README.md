@@ -40,7 +40,7 @@ In this lab session, you'll learn the basics of coding and then get to apply you
  * This command starts the app we’re going to be using on your computer 
  * If asked if you want to accept network connections, click '**Allow**'
  
-7. Go to http://localhost:8001 in your Chrome browser
+7. Now click on this link '**http://localhost:8001**' which will open in your Chrome browser
  * The browser is where your web app will be displayed for you to see
  * You should see a website that says “Plaid Quickstart” at the top
 
