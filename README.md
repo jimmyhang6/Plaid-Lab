@@ -99,7 +99,7 @@ Congratulations! You’ve fixed your first bug!
  * The quickstart app we are using uses HTML tables
  * HTML tables are made up of rows (tr) and cells (td)
  * The word strong tells the browser which words to  emphasize
- * Follow this [link](https://codepen.io/tiberiusf/pen/rqwzYj) to see an example of HTML tables in action. Feel free to take some time to change or add rows. Keep in mind the sum won’t auto-update - not to worry! 
+ * See below or follow this [link](https://codepen.io/tiberiusf/pen/rqwzYj) for an example of HTML tables in action. Feel free to change or add rows. Keep in mind the sum won’t auto-update - not to worry! 
  ```
  <!-- The table starts here -->
 <table>
@@ -129,8 +129,19 @@ Congratulations! You’ve fixed your first bug!
 </table>
 ```
  
-
- ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/HTML%20Tables.png)
- 
  * We also need functions: code formulas that take inputs and transform them into outputs
- * Follow this link to see examples of a function that squares a number
+ * See below or follow this [link](https://codepen.io/tiberiusf/pen/yRXzGj) for an example of a function that adds numbers together
+```
+// A function is like a formula that transforms its inputs into an output.
+// This function has three inputs, and the output is their sum.
+function sum(firstNumber, secondNumber, thirdNumber) {
+  // This line just means that it adds the three numbers and reports their sum.
+  return firstNumber + secondNumber + thirdNumber;
+};
+
+function run() {
+  // This sets the input to 3, 2, 7, which makes it print 12 (3 + 2 + 7) below.
+  // Can you change some of the inputs to other numbers and see what happens?
+  return sum(3, 2, 7);
+};
+```
