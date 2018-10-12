@@ -238,7 +238,7 @@ You need to add `accountBalance` to `totalBalance` inside the loop like in the e
 
 <details>
  <summary> Need even more help? </summary>
-For line 54, you need to add totalBalance += accountBalance
+For line 54, you need to add `totalBalance` += `accountBalance`
  
 </details>
 <br/>
