@@ -223,3 +223,17 @@ function run() {
   return totalBalance;
 };
 ```
+6. Now back in Atom, try to see if you can update the loop to get the right total balance
+<br/>
+<details>
+ <summary> Need help? </summary>
+Each account’s balance is available inside the for loop (lines 50-57). Can you now calculate the total balance?
+</details>
+<br/>
+
+<details>
+ <summary> Need help? </summary>
+To get the right toal balance, you need to add accountBalance to totalBalance inside the loop
+</details>
+<br/>
+
