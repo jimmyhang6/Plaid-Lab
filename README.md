@@ -31,15 +31,15 @@ In this lab session, you'll learn the basics of coding and then get to apply you
  * This command tells the Terminal to look in the '**PlaidLab**' folder that you’ve just unzipped 
 
 5. Run this command in the Terminal: `/Applications/Atom.app/Contents/Resources/app/atom.sh views/balance.ejs`
- * This command tells Atom to open the two files you’ll be editing. You can switch between them at the top in Atom. 
+ * This command tells Atom to open the **balance.ejs** file that you’ll be editing.
  * If a screen prompt appears asking about Xcode, click on '**Not now**' 
  
  ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/XCode.png)
  
 6. Run this command in the Terminal: `./run_me.sh` 
- * If asked if you want to accept network connections, click “Allow”
- * It starts the app we’re going to be using on your computer
-
+ * This command starts the app we’re going to be using on your computer 
+ * If asked if you want to accept network connections, click '**Allow**'
+ 
 7. Go to http://localhost:8001 in your Chrome browser
  * The browser is where your web app will be displayed for you to see
  * You should see a website that says “Plaid Quickstart” at the top
