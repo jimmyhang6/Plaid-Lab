@@ -232,8 +232,13 @@ Each account’s balance is available inside the for loop (lines 50-57). Can you
 <br/>
 
 <details>
- <summary> Need help? </summary>
+ <summary> Need more help? </summary>
 To get the right toal balance, you need to add accountBalance to totalBalance inside the loop
 </details>
 <br/>
 
+<details>
+ <summary> What's the right total balance? </summary>
+If you see $44,910, awesome! That’s the right answer!
+</details>
+<br/>
