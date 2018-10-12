@@ -188,6 +188,7 @@ function run() {
   return createTable();
 }
  ```
-4. Now that you understand HTML tables and functions, let’s switch back to Atom to fix the incorrect toal balance.
-On line 59, it passes totalBalance as the input to a function
-But total balance is set to 1,000,000,000 on line 47
+Now that you understand HTML tables and functions, let’s switch back to Atom to fix the incorrect toal balance.
+
+4. In Atom, find **line 59** it passes totalBalance as the input to a function. However,the total balance is set to 1,000,000,000 on **line 47** which is incorrect.
+5. Replace **1,000,000,000** with **0** on **line 47** for now - we’ll then have to calculate the right total balance
