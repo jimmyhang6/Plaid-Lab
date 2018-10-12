@@ -16,7 +16,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
 
 ## Getting Started
-1. Save and download the [PlaidLab.zip](https://www.dropbox.com/s/jzii4f2z0wdlh1j/PlaidLab.zip?dl=0) (from Dropbox) to your '**Downloads**' folder. 
+1. Save and download the [PlaidLab.zip](https://www.dropbox.com/s/jzii4f2z0wdlh1j/PlaidLab.zip?dl=0) file (from Dropbox) to your '**Downloads**' folder. 
 
 2. Open the zip file (double click) and you should see a '**PlaidLab**' folder which contains the pre-packaged app we'll be using for this session.
   * Chrome (browser) may alert you to the file being dangerous and ask if you want to discard it. Click on '**Keep**'
