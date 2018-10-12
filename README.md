@@ -64,14 +64,14 @@ To access essential financial data, you'll need to connect a sample bank account
 Now in the web browser, you'll seeing all the balances for the sample account we connected using Plaid. If you take a closer look, you'll notice a typo on the page. We're now going to edit the code to correct the typo.
 
 <details>
- <summary> **Need help finding the typo?** </summary>
+ <summary> Need help finding the typo? </summary>
 It says “Ttoal balance” instead of “Total balance”.
 </details>
 
 1. Go back to the Atom window 
 2. Now that you see the code, can you find where the typo is?
 <details>
- <summary> **Need help finding the typo?** </summary>
+ <summary> Need help finding the typo? </summary>
 You can use Command+F to search in Atom for the typo or refer to line 37
 </details>
 
