@@ -11,7 +11,7 @@ In this lab session, you'll learn the basics of coding and then apply your knowl
 - Browser: This is where your web app will be displayed for you to interact with it.
 
 ## Required Tools
-- Mac laptop with Chrome Browser
+- Mac laptop with Chrome Browser. :warning: We recommend opening all the links below in new tabs. :warning:
 - Download and install a code editor: [Atom](https://atom.io/) (Make sure you add Atom to your 'Applications' folder upon installation)
 ![](https://github.com/jimmyhang6/plaid-my-first-app/blob/master/Atom.png)
 - **Note:** These instructions assume that your browser is Google Chrome and your editor is Atom, but using other browsers and editors is also possible
