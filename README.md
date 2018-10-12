@@ -143,10 +143,10 @@ function run() {
   // This sets the input to 3, 2, 7, which makes it print 12 (3 + 2 + 7) below.
   // Can you change some of the inputs to other numbers and see what happens?
   return sum(3, 2, 7);
-};
+}; 
 ```
-4. Now let’s put the HTML table and function together which is how the app shows the account names, balances and total sum.
- * See below or follow this [link](https://codepen.io/tiberiusf/pen/vVZWKy)for an example of how functions can be used to create tables.
+ * Now let’s put the HTML table and function together which is how the app shows the account names, balances and total sum.
+ * See below or follow this [link](https://codepen.io/tiberiusf/pen/vVZWKy) for an example of how functions can be used to create tables. 
  ```
  // Time to reinforce your knowledge about functions and tables!
 //
@@ -188,3 +188,6 @@ function run() {
   return createTable();
 }
  ```
+4. Now that you understand HTML tables and functions, let’s switch back to Atom to fix the incorrect toal balance.
+On line 59, it passes totalBalance as the input to a function
+But total balance is set to 1,000,000,000 on line 47
